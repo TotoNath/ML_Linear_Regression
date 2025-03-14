@@ -62,7 +62,7 @@ def part5_slr(data):
     print(f'R-squared: {r2}')
 
 
-#part5_slr(data)
+part5_slr(data)
 #comment : Le modèle fait bcp d'erreur car MSE : 46 => un seul paramètre ne suffit pas pour le MEDV
 #le nombre de pièce n'est pas suffisent pour expliquer le prix.
 

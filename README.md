@@ -79,7 +79,7 @@ R² => variance expliqué => plus c'est proche de 1 mieux c'est si c'est en dess
 dans le code .fit => descente du gradient
 R² € [0;1] on peut expliquer R²*100 % des résultats prédits
 Variance expliqué dans la variable par le modèle(ex : medv ici)
-Ici 67% des variations sont expliqués par le modèle
+Ici 37% des variations sont expliqués par le modèle ce qui n'est pas suffisant
 
 ### MLR
 
